@@ -5,7 +5,7 @@
 <p>✨ Full-Stack Developer | Flutter Enthusiast | Freelancer | AI Graduate</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Habiba-Mohamed5&style=flat&color=orange&label=PROFILE+VIEWS)
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHabiba-Mohamed5&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Habiba-Mohamed5)
 
 <a href="mailto:habiba5143m@gmail.com">📰 Email</a> •
 <a href="https://www.linkedin.com/in/habiba-mohamed-88901328a">🔗 LinkedIn</a>
@@ -80,5 +80,4 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
-
 
