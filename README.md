@@ -2,12 +2,12 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 <h1>Hi, I'm Eng. Habiba Mohamed 👩‍💻</h1>
-<p>🌟 Full-Stack Developer | Flutter Enthusiast | Freelancer</p>
+<p>✨ Full-Stack Developer | Flutter Enthusiast | Freelancer | AI Graduate</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Habiba-Mohamed5&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHabiba-Mohamed5&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
-<a href="mailto:habiba5143m@gmail.com">📧 Email</a> •
+<a href="mailto:habiba5143m@gmail.com">📰 Email</a> •
 <a href="https://www.linkedin.com/in/habiba-mohamed-88901328a">🔗 LinkedIn</a>
 
 </div>
@@ -48,21 +48,26 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
+**AI & Data**
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 ---
 
 ### ✨ About Me
 
-- 🔭 I’m currently working on freelance & portfolio projects.
-- 🌱 I’m learning Flutter, Back-End APIs, and Cybersecurity.
-- 👩‍💻 I love turning ideas into real digital products.
-- 💬 Ask me about anything from web dev to data analysis!
-- 🐶 Dog mom to Leo 🐾
+- 💪 Passionate about building elegant web & mobile apps
+- 🧠 Always exploring the world of AI and tech
+- 😊 Enjoy solving problems and learning new things
+- 🤍 Interested in freelance, internships, and teamwork
 
 ---
 
 ### 📊 GitHub Stats
-
-> **Note:** لو عايزة تفعلي الستاتس فعليًا، لازم تفعّلي GitHub Public Contributions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habiba-Mohamed5&layout=compact&theme=default)](https://github.com/Habiba-Mohamed5)
 
@@ -70,11 +75,10 @@
 
 ---
 
-### 🚀 Let's Build Something Great Together!
+### 🚀 Let's Build Something Great!
 
 <div align="center">
-  
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-  
 </div>
+
 
