@@ -48,26 +48,14 @@ I'm <strong>Eng. Habiba Mohamed</strong>, a passionate <strong>Full-Stack Develo
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngHabibaMohamed&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngHabibaMohamed&theme=radical" width="48%"/>
-</div>
-
----
-
 ### 💼 Contact Me
 
 <p>
-<a href="https://www.linkedin.com/in/eng-habiba-mohamed" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://t.me/yourtelegramusername" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
-</a>
-<a href="mailto:your@email.com">
+<a href="mailto:habiba5143m@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/habiba-mohamed-88901328a" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
