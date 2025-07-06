@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 <h1>Hi, I'm Eng. Habiba Mohamed 👩‍💻</h1>
-<p>✨ Full-Stack Developer | Flutter Enthusiast | Freelancer | AI Graduate</p>
+<p>✨ Full-Stack Developer | Flutter Enthusiast | Freelancer | AI Bachelor's degree</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Habiba-Mohamed5&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Habiba-Mohamed5)
